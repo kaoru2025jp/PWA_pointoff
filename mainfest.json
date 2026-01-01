@@ -1,0 +1,9 @@
+{
+  "name": "点滅・計算・認証システム",
+  "short_name": "認証PWA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja"
+}
